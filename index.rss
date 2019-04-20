@@ -5,9 +5,10 @@
   <channel>
     <!--Añadimos los elementos obligatorios-->
     <title>Desarrollo de Aplicaciones Web</title>
-    <link>https://github.com/desireetorrente/lenguaje_de_marcas.git</link>
+    <link>https://desireetorrente.github.io/lenguaje_de_marcas</link>
     <description>Artículos de interés para estudiantes
     del grado superior en Desarrollo de Aplicaciones Web.
+	</description>
     <!--Los item serán nuestros artículos-->
     <item>
       <title>XML: Lenguaje de Marcas Extensible</title>
@@ -35,6 +36,5 @@
       <link>https://medium.com/topic/technology</link>
       <description>Portal con contenidos de gran interés para programadores</description>
     </item>
-  </description>
   </channel>
 </rss>

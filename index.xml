@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Especificación RSS-->
+<rss version="2.0">
+  <!--Creamos el canal-->
+  <channel>
+    <!--Añadimos los elementos obligatorios-->
+    <title>Desarrollo de Aplicaciones Web</title>
+    <link>https://desireetorrente.github.io/lenguaje_de_marcas/</link>
+    <description>Artículos de interés para estudiantes
+    del grado superior en Desarrollo de Aplicaciones Web.
+    <!--Los item serán nuestros artículos-->
+    <item>
+      <title>XML: Lenguaje de Marcas Extensible</title>
+      <link>http://www.mclibre.org/consultar/xml/index.html</link>
+      <description>Curso de XML con ejercicios explicativos</description>
+    </item>
+    <item>
+      <title>XSD: Tipos de datos</title>
+      <link>http://www.tic2.org/WebTecnica/Programacion/XSD/XSDTipos/XSDTipos.htm</link>
+      <description>Recurso sobre los tipos de datos en XSD con ejemplos</description>
+    </item>
+    <item>
+      <title>Blog Ticarte: Recuros Ciclos formativos</title>
+      <link>http://www.ticarte.com/categorias/ciclos-formativos</link>
+      <description>Blog con recursos para ciclos formativos de la rama tecnológica</description>
+    </item>
+    <item>
+      <title>Blog Docente: David Pérez Alonso</title>
+      <link>http://davidperezalonso.com/blog/</link>
+      <description>Blog del docente David Pérez Alonso. Recursos formativos para 
+      ciclos de grado superior de informática, entre ellos DAW</description>
+    </item>
+    <item>
+      <title>Medium: Technology</title>
+      <link>https://medium.com/topic/technology</link>
+      <description>Portal con contenidos de gran interés para programadores</description>
+    </item>
+  </description>
+  </channel>
+</rss>
